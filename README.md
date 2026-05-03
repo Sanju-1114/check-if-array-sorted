@@ -57,9 +57,13 @@ For an unsorted array, e.g., `{1, 3, 2, 4, 5}`:
 0
 ```
 
+---
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
+
+---
 
 ## License
 
