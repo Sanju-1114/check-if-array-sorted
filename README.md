@@ -11,6 +11,8 @@ The program defines a recursive function `isSorted` that checks whether a given 
 - **Time Complexity**: O(n), where n is the size of the array.
 - **Space Complexity**: O(n) due to the recursive call stack.
 
+---
+
 ## Files
 
 - **check_ifArrayIsSortedOrNot_usingRecursion.cpp**: The main C++ program that implements the recursive sorting check.
