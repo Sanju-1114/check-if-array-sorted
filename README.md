@@ -2,6 +2,8 @@
 
 This repository contains a C++ program to check if an array is sorted in non-decreasing order using recursion.
 
+---
+
 ## Overview
 
 The program defines a recursive function `isSorted` that checks whether a given array (stored in a `vector<int>`) is sorted in non-decreasing order. It uses a recursive approach to compare adjacent elements and determine if the array is sorted.
