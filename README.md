@@ -26,6 +26,8 @@ The program defines a recursive function `isSorted` that checks whether a given 
 3. Recursive case: The function checks if the last element (`nums[n-1]`) is greater than or equal to the second-to-last element (`nums[n-2]`). It then recursively calls itself with `n-1` to check the rest of the array.
 4. The main function initializes a sample array `{1, 2, 3, 4, 5}` and calls `isSorted` to check if it is sorted, printing the result (`1` for true, `0` for false).
 
+---
+
 ## Usage
 
 1. Clone the repository:
@@ -48,6 +50,8 @@ The program defines a recursive function `isSorted` that checks whether a given 
    ```bash
    ./check_sorted
    ```
+
+---
 
 ## Example Output
 
