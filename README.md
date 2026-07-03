@@ -17,6 +17,8 @@ The program defines a recursive function `isSorted` that checks whether a given 
 
 - **check_ifArrayIsSortedOrNot_usingRecursion.cpp**: The main C++ program that implements the recursive sorting check.
 
+---
+
 ## How It Works
 
 1. The `isSorted` function takes a vector of integers (`nums`) and its size (`n`) as parameters.
